@@ -12,7 +12,7 @@ int round = 0;
 Console.WriteLine("punch does normal damage   kick does dubble damage but you take dubble damage this turn cooldown 2 turns  block blocks all damage this turn cooldown 2 turns");
 Console.WriteLine("start fight");
 Console.ReadLine();
-while (childhp > 0 & hp > 0)
+while (childhp > 0 && hp > 0)
 {
     round++;
     Console.WriteLine($"round{round}");
@@ -33,7 +33,7 @@ while (childhp > 0 & hp > 0)
     Console.WriteLine("choose attack");
     Console.WriteLine("type 1 for punch. 2 for kick. 3 for block");
     string action = Console.ReadLine();
-    if (block2cooldown < 2 & kick2cooldown < 2)
+    if (block2cooldown < 2 && kick2cooldown < 2)
     {
         if (action == "1")
         {
@@ -43,6 +43,7 @@ while (childhp > 0 & hp > 0)
         {
             childhp -= dmg * 2;
             kickcooldown = 2;
+            Console.WriteLine("you kick the child");
         }
         if (action == "3")
         {
@@ -54,7 +55,7 @@ while (childhp > 0 & hp > 0)
             Console.WriteLine("you skip your turn");
         }
     }
-    if (block2cooldown < 2 & kick2cooldown == 2)
+    if (block2cooldown < 2 && kick2cooldown == 2)
     {
         if (action == "1")
         {
@@ -64,6 +65,7 @@ while (childhp > 0 & hp > 0)
         {
             childhp -= dmg * 4;
             kickcooldown = 2;
+            Console.WriteLine("you kick the child");
         }
         if (action == "3")
         {
@@ -75,25 +77,27 @@ while (childhp > 0 & hp > 0)
             Console.WriteLine("you skip your turn");
         }
     }
-    if (block2cooldown == 2 & kick2cooldown < 2)
+    if (block2cooldown == 2 && kick2cooldown < 2)
     {
         if (action == "1")
         {
-            childhp -= dmg * 2;
+           
+            Console.WriteLine("you punch the child and the child blocks");
         }
         if (action == "2")
         {
             childhp -= dmg * 4;
             kickcooldown = 2;
+            Console.WriteLine("you kick the child and the child blocks");
         }
         if (action == "3")
         {
             blockcooldown = 2;
-            Console.WriteLine("you block the child");
+            Console.WriteLine("you block the child and the child blocks");
         }
         else
         {
-            Console.WriteLine("you skip your turn");
+            Console.WriteLine("you skip your turn and the child blocks");
         }
     }
     if (block2cooldown > 0)
