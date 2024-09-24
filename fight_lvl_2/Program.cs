@@ -86,7 +86,7 @@ while (childhp > 0 && hp > 0)
         }
         if (action == "2")
         {
-            childhp -= dmg * 4;
+            
             kickcooldown = 2;
             Console.WriteLine("you kick the child and the child blocks");
         }
