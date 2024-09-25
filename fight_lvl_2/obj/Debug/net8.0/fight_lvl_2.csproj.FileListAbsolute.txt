@@ -1,0 +1,15 @@
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\bin\Debug\net8.0\fight_lvl_2.exe
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\bin\Debug\net8.0\fight_lvl_2.deps.json
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\bin\Debug\net8.0\fight_lvl_2.runtimeconfig.json
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\bin\Debug\net8.0\fight_lvl_2.dll
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\bin\Debug\net8.0\fight_lvl_2.pdb
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\obj\Debug\net8.0\fight_lvl_2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\obj\Debug\net8.0\fight_lvl_2.AssemblyInfoInputs.cache
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\obj\Debug\net8.0\fight_lvl_2.AssemblyInfo.cs
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\obj\Debug\net8.0\fight_lvl_2.csproj.CoreCompileInputs.cache
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\obj\Debug\net8.0\fight_lvl_2.sourcelink.json
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\obj\Debug\net8.0\fight_lvl_2.dll
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\obj\Debug\net8.0\refint\fight_lvl_2.dll
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\obj\Debug\net8.0\fight_lvl_2.pdb
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\obj\Debug\net8.0\fight_lvl_2.genruntimeconfig.cache
+c:\Users\alexander.swedlund\New folder\fight_lvl_2\fight_lvl_2\obj\Debug\net8.0\ref\fight_lvl_2.dll
